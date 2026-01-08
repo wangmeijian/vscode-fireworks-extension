@@ -4,6 +4,8 @@
 
 > 此项目完全由 AI 生成,不包含任何人工编写的代码。
 
+<img width="800" alt="2b24c599886f195060f07d19c46cc1cd" src="https://github.com/user-attachments/assets/cc2219b1-252a-4c01-9d19-f5fcdcfee8fc" />
+
 ## 功能特性
 
 - 🎆 **全屏 Canvas 烟花动画**: 在当前编辑器标签页显示精美的 Canvas 烟花效果
