@@ -3,9 +3,10 @@
   "displayName": "VSCode Fireworks",
   "description": "在 VSCode 编辑器中放烟花庆祝",
   "version": "1.0.0",
-  "publisher": "your-publisher-name",
+  "publisher": "undefined20260120",
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.75.0",
+    "node": "^23.6.0"
   },
   "categories": [
     "Other"
